@@ -1,0 +1,94 @@
+/* Reset some default styles */
+body, h1, h2, h3, p, ul, li, a {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f8f0e3; /* Soft beige background */
+}
+
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.navbar {
+    background-color: #ffffff;
+    color: #333;
+    overflow: auto;
+    padding: 20px 0;
+}
+
+.logo {
+    float: left;
+    font-size: 28px;
+    font-weight: bold;
+    color: #333;
+}
+
+.nav-links {
+    float: right;
+}
+
+.nav-links a {
+    color: #333;
+    padding: 10px 20px;
+    display: inline-block;
+}
+
+.hero-section {
+    text-align: center;
+    padding: 100px 0;
+    background: url('path-to-hero-image.jpg') no-repeat center center/cover;
+    color: #fff;
+}
+
+.hero-section h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+}
+
+.hero-section p {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+}
+
+.cta-button {
+    display: inline-block;
+    padding: 10px 30px;
+    background-color: #5c5c8a; /* Soft purple */
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.services-section {
+    padding: 50px 0;
+    background: #fff;
+    text-align: center;
+}
+
+.service {
+    margin: 20px;
+    display: inline-block;
+    width: calc(33.333% - 40px); /* Three services per row */
+}
+
+.service img {
+    width: 80px; /* Placeholder size */
+    margin-bottom: 10px;
+}
+
+.service h2 {
+    margin-bottom: 10px;
+    color: #333;
+}
+
