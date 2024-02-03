@@ -19,3 +19,10 @@ Integrated customer testimonials and a blog section for sharing valuable wellnes
 
 Added smooth scrolling and hover effects to enhance the interactive elements of the landing page.
 Integrated a contact form for easy inquiries and a subscription option for wellness newsletters.
+
+
+![Screenshot 2024-02-04 010146](https://github.com/Muskan1113/fitnesslandingpage/assets/104751681/0c3ed5e8-34ed-4f26-a822-0be3c6dc4948)
+![Screenshot 2024-02-04 010200](https://github.com/Muskan1113/fitnesslandingpage/assets/104751681/1d453e74-c991-4a3e-9ecd-97c04f46dc56)
+![Screenshot 2024-02-04 010152](https://github.com/Muskan1113/fitnesslandingpage/assets/104751681/ef97ceb9-d04a-40f7-84ec-9c600a1b92df)
+https://github.com/Muskan1113/fitnesslandingpage/assets/104751681/4e1ae336-521f-43ac-b49f-c1096bcac406
+
